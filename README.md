@@ -116,8 +116,7 @@ Error (404 Not Found):
 
 
 ## f) Link Video Presentasi
-[Klik di sini untuk menonton video presentasi](https://youtu.be/LINK_VIDEO_KAMU)
-
+https://youtu.be/cgOBOLc-oE4
 
 ## Struktur Project
 Tugas PAA TM/
